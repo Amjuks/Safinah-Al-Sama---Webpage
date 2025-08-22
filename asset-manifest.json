@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Safinah-Al-Sama---Webpage/static/css/main.f056d19f.css",
+    "main.js": "/Safinah-Al-Sama---Webpage/static/js/main.fd839426.js",
+    "index.html": "/Safinah-Al-Sama---Webpage/index.html",
+    "main.f056d19f.css.map": "/Safinah-Al-Sama---Webpage/static/css/main.f056d19f.css.map",
+    "main.fd839426.js.map": "/Safinah-Al-Sama---Webpage/static/js/main.fd839426.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f056d19f.css",
+    "static/js/main.fd839426.js"
+  ]
+}
