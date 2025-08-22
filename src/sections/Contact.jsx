@@ -56,7 +56,7 @@ const Contact = () => {
         position: 'relative',
         py: 10,
         minHeight: '500px', // Ensure height so background appears
-        backgroundImage: 'url(/assets/contact_banner.jpg)',
+        backgroundImage: `url(${process.env.PUBLIC_URL}/assets/contact_banner.jpg)`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',

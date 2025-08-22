@@ -3,27 +3,27 @@
   "name": "Safinah Al Sama Shipping LLC",
   "icons": [
     {
-      "src": "/assets/favicon/favicon-96x96.png",
+      "src": "Safinah-Al-Sama---Webpage/assets/favicon/favicon-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/assets/favicon/apple-touch-icon.png",
+      "src": "Safinah-Al-Sama---Webpage/assets/favicon/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "/assets/favicon/favicon-192x192.png",
+      "src": "Safinah-Al-Sama---Webpage/assets/favicon/favicon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/assets/favicon/favicon-512x512.png",
+      "src": "Safinah-Al-Sama---Webpage/assets/favicon/favicon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "Safinah-Al-Sama---Webpage/",
   "display": "standalone",
   "theme_color": "#0ab5af",
   "background_color": "#ffffff"

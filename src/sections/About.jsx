@@ -39,7 +39,7 @@ const About = ({
     { label: "Reach", value: "100+ countries" },
     { label: "Authority", value: "Licensed brokers" },
   ],
-  image = "/assets/logo/wall_mockup.jpg",
+  image = `${process.env.PUBLIC_URL}/assets/logo/wall_mockup.jpg`,
   onContact = () => {},
   onServices = () => {},
 }) => {

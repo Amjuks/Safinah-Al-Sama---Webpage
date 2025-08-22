@@ -18,7 +18,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import scrollToSection from '../utils/scrollToSection';
 
 // Logo path since it's in public folder
-const logo = '/assets/logo/transparent.png';
+const logo = `${process.env.PUBLIC_URL}/assets/logo/transparent.png`;
 
 const navItems = [
   { label: 'About', id: 'about-section-container' },

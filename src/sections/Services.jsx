@@ -54,7 +54,7 @@ const Services = () => {
           sx={{
             position: 'absolute',
             inset: 0,
-            backgroundImage: 'url(/assets/service_banner.jpg)',
+            backgroundImage: `url(${process.env.PUBLIC_URL}/assets/service_banner.jpg)`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             filter: 'brightness(0.5)',

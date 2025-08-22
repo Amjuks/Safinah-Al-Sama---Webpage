@@ -11,7 +11,7 @@ import { Email, Phone, LocationOn } from '@mui/icons-material';
 import scrollToSection from '../utils/scrollToSection';
 
 // Logo path from public folder
-const logo = '/assets/logo/transparent.png';
+const logo = `${process.env.PUBLIC_URL}/assets/logo/transparent.png`;
 
 const quickLinks = [
   {

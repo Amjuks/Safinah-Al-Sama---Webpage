@@ -14,7 +14,7 @@ import {
 import scrollToSection from '../utils/scrollToSection';
 
 const Hero = ({
-  image = '/assets/hero_banner.jpg',
+  image = `${process.env.PUBLIC_URL}/assets/hero_banner.jpg`,
   title = 'Your Cargo, Our Priority',
   subtitle = 'Trusted logistics partner for customs brokerage, freight forwarding, customs representation, and cross-border solutions based in Dubai.',
   onGetQuote = () => {},
